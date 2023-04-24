@@ -1,0 +1,101 @@
+tom.brady@gmail.com, VERB, VB, compound, compound
+Hi, PROPN, NNP, compound, compound
+Dave, PROPN, NNP, npadvmod, noun phrase as adverbial modifier
+,, PUNCT, ,, punct, punctuation
+I, PRON, PRP, nsubj, nominal subject
+’d, AUX, RB, aux, auxiliary
+like, VERB, VB, ROOT, root
+to, PART, TO, aux, auxiliary
+invest, VERB, VB, xcomp, open clausal complement
+$, SYM, $, nmod, modifier of nominal
+10,000, NUM, CD, dobj, direct object
+with, ADP, IN, prep, prepositional modifier
+Microsoft, PROPN, NNP, pobj, object of preposition
+and, CCONJ, CC, cc, coordinating conjunction
+another, DET, DT, det, determiner
+$, SYM, $, nmod, modifier of nominal
+15,000, NUM, CD, conj, conjunct
+with, ADP, IN, prep, prepositional modifier
+Amazon, PROPN, NNP, pobj, object of preposition
+., PUNCT, ., punct, punctuation
+Thanks, NOUN, NNS, ROOT, root
+,, PUNCT, ,, punct, punctuation
+Tom, PROPN, NNP, npadvmod, noun phrase as adverbial modifier
+., PUNCT, ., punct, punctuation
+bjohnson@sympatico.ca, VERB, VBN, npadvmod, noun phrase as adverbial modifier
+As, SCONJ, IN, mark, marker
+we, PRON, PRP, nsubj, nominal subject
+discussed, VERB, VBD, advcl, adverbial clause modifier
+,, PUNCT, ,, punct, punctuation
+let, VERB, VB, ROOT, root
+’s, NOUN, NN, nsubj, nominal subject
+try, VERB, VB, ccomp, clausal complement
+$, SYM, $, nmod, modifier of nominal
+8500, NUM, CD, dobj, direct object
+on, ADP, IN, prep, prepositional modifier
+Apple, PROPN, NNP, pobj, object of preposition
+., PUNCT, ., punct, punctuation
+Hopefully, ADV, RB, advmod, adverbial modifier
+,, PUNCT, ,, punct, punctuation
+that, PRON, DT, nsubj, nominal subject
+’s, ADV, RB, ROOT, root
+OK, INTJ, UH, acomp, adjectival complement
+., PUNCT, ., punct, punctuation
+-Brooke, NOUN, NN, ROOT, root
+andy.average@gmail.com, NOUN, NNS, compound, compound
+Edward, PROPN, NNP, npadvmod, noun phrase as adverbial modifier
+,, PUNCT, ,, punct, punctuation
+can, AUX, MD, aux, auxiliary
+you, PRON, PRP, nsubj, nominal subject
+do, VERB, VB, ROOT, root
+$, SYM, $, quantmod, modifier of quantifier
+50, NUM, CD, compound, compound
+thousand, NUM, CD, dobj, direct object
+to, ADP, IN, prep, prepositional modifier
+Infotech, PROPN, NNP, compound, compound
+Inc., PROPN, NNP, pobj, object of preposition
+and, CCONJ, CC, cc, coordinating conjunction
+another, DET, DT, det, determiner
+$, SYM, $, nmod, modifier of nominal
+10,000, NUM, CD, conj, conjunct
+with, ADP, IN, prep, prepositional modifier
+Amazon, PROPN, NNP, pobj, object of preposition
+?, PUNCT, ., punct, punctuation
+Also, ADV, RB, advmod, adverbial modifier
+,, PUNCT, ,, punct, punctuation
+let, VERB, VB, ROOT, root
+’s, NOUN, NN, nsubj, nominal subject
+try, VERB, VB, ccomp, clausal complement
+just, ADV, RB, advmod, adverbial modifier
+$, SYM, $, quantmod, modifier of quantifier
+5000, NUM, CD, dobj, direct object
+for, ADP, IN, prep, prepositional modifier
+Newcorp, PROPN, NNP, compound, compound
+stock, NOUN, NN, pobj, object of preposition
+., PUNCT, ., punct, punctuation
+Call, VERB, VB, ROOT, root
+me, PRON, PRP, dobj, direct object
+if, SCONJ, IN, mark, marker
+you, PRON, PRP, nsubj, nominal subject
+have, VERB, VBP, advcl, adverbial clause modifier
+any, DET, DT, det, determiner
+questions, NOUN, NNS, dobj, direct object
+., PUNCT, ., punct, punctuation
+john.public@rogers.com, NOUN, NNS, npadvmod, noun phrase as adverbial modifier
+I, PRON, PRP, nsubj, nominal subject
+’ve, AUX, VBP, aux, auxiliary
+finally, ADV, RB, advmod, adverbial modifier
+decided, VERB, VBN, ROOT, root
+on, ADP, IN, prep, prepositional modifier
+$, SYM, $, nmod, modifier of nominal
+11,200, NUM, CD, pobj, object of preposition
+with, ADP, IN, prep, prepositional modifier
+Microsoft, PROPN, NNP, pobj, object of preposition
+., PUNCT, ., punct, punctuation
+Always, ADV, RB, advmod, adverbial modifier
+liked, VERB, VBD, ROOT, root
+Windows, PROPN, NNP, dobj, direct object
+., PUNCT, ., punct, punctuation
+Regards, PROPN, NNP, nsubj, nominal subject
+,, PUNCT, ,, punct, punctuation
+John, PROPN, NNP, conj, conjunct
